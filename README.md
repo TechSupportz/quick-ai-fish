@@ -7,6 +7,10 @@ ai move the files I just downloaded to the 2030s quiz folder
 ai rename the files here to be shorter
 ```
 
+
+https://github.com/user-attachments/assets/5cc0d47e-4fd8-4d30-af53-626922baa6d1
+
+
 ## Install
 
 Needs [Codex CLI](https://github.com/openai/codex) installed and signed in.
